@@ -17,7 +17,7 @@ After loading page, user is by default switched on home page.
  
 
  After clicking on submit button, countdown starts. <br>
- ![countdown](./assets/Countingdown.png"countdown")
+ ![countdown](./assets/Countingdown.png "countdown")
 
  Items from countdown are saved in Local Storage so when refreshing a page, countdown event will not be lost. <br>
  One can only undo countdown with reset button. <br>
